@@ -1,7 +1,7 @@
 {
-    "is_Banner_Live":false,
-    "banner_ad_img":"https://raw.githubusercontent.com/zahaghokagy/test/main/ER-01.png",
-    "Banner_Ad_Go_To_URL":"www.google.com",
+    "is_Banner_Live":true,
+    "banner_ad_img":"https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Pop_Up_Ads/ER-01.png",
+    "Banner_Ad_Go_To_URL":"amzn://apps/android?initiatePurchaseFlow=true&asin=B0CYM54PBY",
     "is_Interstitial_Live":false,
     "is_Interstitial_A_Vid":false,
     "Interstitial_Ad_Go_To_URL":"www.youtube.com",
