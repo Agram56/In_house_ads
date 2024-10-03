@@ -12,9 +12,9 @@
     "Inter_Skip_Seconds":9,
     "Inter_ad_Video_169":"https://agram56.publit.io/file/build-mob-video.mp4",
     "Inter_ad_Video_43":"https://zahag.publit.io/file/gameVid.mp4",
-    "is_Rewarded_Live":false,
+    "is_Rewarded_Live":true,
     "Rewarded_Skip_Seconds":25,
-    "Rewarded_Ad_Go_To_URL":"www.twitter.com",
-    "rewarded_vid_169":"https://zahag.publit.io/file/gameVid.mp4",
+    "Rewarded_Ad_Go_To_URL":"amzn://apps/android?initiatePurchaseFlow=true&asin=B0D8BDHJT9",
+    "rewarded_vid_169":"https://agram56.publit.io/file/build-mob-video.mp4",
     "rewarded_vid_43":"https://zahag.publit.io/file/gameVid.mp4"
 }
