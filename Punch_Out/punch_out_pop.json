@@ -1,5 +1,5 @@
 {
     "is_showing_new_app":true,
-    "go_to_url":"www.amazon.com",
+    "go_to_url":"amzn://apps/android?initiatePurchaseFlow=true&asin=B0D8BDHJT9",
     "app_icon_img":"https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Pop_Up_Ads/black_hole.png"
 }
