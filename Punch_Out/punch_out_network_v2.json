@@ -5,7 +5,7 @@
       {
         "id": "rewardedPack1",
         "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Attack_Hole_V01.mp4",
-        "imageURL": "https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/attackHolAD23.png",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/Black_hole_inter_01.png",
         "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CYM54PBY",
         "priority": 1
       },
@@ -18,9 +18,9 @@
       },
       {
         "id": "rewardedPack3",
-        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/ready.mp4",
-        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/mobcontrol.jpg",
-        "webURL": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en_IN",
+        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Build_crowd_AD_01.mp4",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/build_crowd_inter_01.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DBF8R1XR",
         "priority": 3
       }
     ]
@@ -30,13 +30,13 @@
     "mediaPacks": [
       {
         "id": "interstitialPack1",
-        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/build_crowd_inter_v1.png",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/build_crowd_inter_01.png",
         "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DBF8R1XR",
         "priority": 1
       },
       {
         "id": "interstitialPack2",
-        "imageURL": "https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/attackHolAD23.png",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/Black_hole_inter_01.png",
         "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CYM54PBY",
         "priority": 2
       },
