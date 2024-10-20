@@ -1,0 +1,51 @@
+{
+  "RewardedAds": {
+    "mixAds": true,
+    "mediaPacks": [
+      {
+        "id": "rewardedPack1",
+        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Attack_Hole_V01.mp4",
+        "imageURL": "https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/attackHolAD23.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CYM54PBY",
+        "priority": 1
+      },
+      {
+        "id": "rewardedPack2",
+        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Attack_Hole_V02.mp4",
+        "imageURL": "https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/attackHolAD23.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CYM54PBY",
+        "priority": 2
+      },
+      {
+        "id": "rewardedPack3",
+        "videoURL": "https://github.com/NovaGames911/NovaGames/raw/main/ready.mp4",
+        "imageURL": "https://raw.githubusercontent.com/NovaGames911/NovaGames/main/mobcontrol.jpg",
+        "webURL": "https://play.google.com/store/apps/details?id=com.vincentb.MobControl&hl=en_IN",
+        "priority": 3
+      }
+    ]
+  },
+  "InterstitialAds": {
+    "mixAds": true,
+    "mediaPacks": [
+      {
+        "id": "interstitialPack1",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/build_crowd_inter_v1.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DBF8R1XR",
+        "priority": 1
+      },
+      {
+        "id": "interstitialPack2",
+        "imageURL": "https://raw.githubusercontent.com/zahaghokagy/test/refs/heads/main/attackHolAD23.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CYM54PBY",
+        "priority": 2
+      },
+      {
+        "id": "interstitialPack3",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/build_crowd_inter_v2.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DBF8R1XR",
+        "priority": 3
+      }
+    ]
+  }
+}
