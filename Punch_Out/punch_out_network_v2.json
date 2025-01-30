@@ -20,7 +20,7 @@
         "id": "rewardedPack3",
         "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Build_crowd_AD_01.mp4",
         "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/build_crowd_inter_01.png",
-        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DBF8R1XR",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0D8BDHJT9",
         "priority": 3
       }
     ]
@@ -31,7 +31,7 @@
       {
         "id": "interstitialPack1",
         "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/build_crowd_inter_01.png",
-        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DBF8R1XR",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0D8BDHJT9",
         "priority": 1
       },
       {
