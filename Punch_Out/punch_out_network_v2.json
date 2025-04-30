@@ -4,7 +4,7 @@
     "mediaPacks": [
       {
         "id": "rewardedPack1",
-        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Super_her_15s_vid.mp4",
+        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Super_hero_test_vid_15s.mp4",
         "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/last_stickman_inter_1.png",
         "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F6NLSJQ5",
         "priority": 3
@@ -18,7 +18,7 @@
       },
       {
         "id": "rewardedPack3",
-        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Super_her_15s_vid.mp4",
+        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Super_hero_test_vid_15s.mp4",
         "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Vid_img_files/super_hero_inter(1).png",
         "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F6NLSJQ5",
         "priority": 1
