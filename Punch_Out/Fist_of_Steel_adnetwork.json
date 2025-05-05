@@ -1,0 +1,64 @@
+{
+  "RewardedAds": {
+    "mixAds": true,
+    "mediaPacks": [
+      {
+        "id": "rewardedPack1",
+        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Super_hero_test_vid_15s.mp4",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Vid_img_files/super_hero_inter(1).png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F6NLSJQ5",
+        "priority": 3
+      },
+      {
+        "id": "rewardedPack2",
+        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Black_hole_fixed_30s.mp4",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Vid_img_files/black_hole_inter_ad_3.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CYM54PBY",
+        "priority": 2
+      },
+      {
+        "id": "rewardedPack3",
+        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Super_hero_test_vid_15s.mp4",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Vid_img_files/super_hero_inter(1).png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F6NLSJQ5",
+        "priority": 1
+      },
+      {
+        "id": "rewardedPack4",
+        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Build_crowd_AD_01.mp4",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/build_crowd_inter_01.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0D8BDHJT9",
+        "priority": 4
+      }
+    ]
+  },
+  "InterstitialAds": {
+    "mixAds": true,
+    "mediaPacks": [
+      {
+        "id": "interstitialPack1",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/build_crowd_inter_01.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0D8BDHJT9",
+        "priority": 4
+      },
+      {
+        "id": "interstitialPack2",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Vid_img_files/black_hole_inter_ad_3.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CYM54PBY",
+        "priority": 2
+      },
+      {
+        "id": "interstitialPack3",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/main/Vid_img_files/last_stickman_inter_1.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DR65DJ67",
+        "priority": 3
+      },
+      {
+        "id": "interstitialPack4",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Vid_img_files/super_hero_inter(1).png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F6NLSJQ5",
+        "priority": 1
+      }
+    ]
+  }
+}
