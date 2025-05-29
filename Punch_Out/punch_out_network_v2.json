@@ -13,13 +13,13 @@
         "id": "rewardedPack2",
         "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Black_hole_fixed_30s.mp4",
         "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Vid_img_files/black_hole_inter_ad_3.png",
-        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CYM54PBY",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F7SV398P",
         "priority": 2
       },
       {
         "id": "rewardedPack3",
-        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/Super_hero_test_vid_15s.mp4",
-        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Vid_img_files/super_hero_inter(1).png",
+        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Vid_img_files/new_10s_video_pucher.mp4",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Vid_img_files/Fist_of_steel_inter_v3.png",
         "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F6NLSJQ5",
         "priority": 1
       },
@@ -44,7 +44,7 @@
       {
         "id": "interstitialPack2",
         "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Vid_img_files/black_hole_inter_ad_3.png",
-        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CYM54PBY",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F7SV398P",
         "priority": 2
       },
       {
