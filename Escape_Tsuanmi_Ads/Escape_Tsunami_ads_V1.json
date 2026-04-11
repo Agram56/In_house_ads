@@ -4,9 +4,9 @@
     "mediaPacks": [
       {
         "id": "rewardedPack1",
-        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Escape_Tsuanmi_Ads/playground_video_ad.mp4",
-        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Escape_Tsuanmi_Ads/melon_interstitial.png",
-        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GJR5B37J",
+        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Escape_Tsuanmi_Ads/among_us_RV.mp4",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Escape_Tsuanmi_Ads/among%20_us_interstitial.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0D3WNDLYB",
         "priority": 1
       },
       {
@@ -18,9 +18,9 @@
       },
       {
         "id": "rewardedPack3",
-        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Escape_Tsuanmi_Ads/avatar_vid.mp4",
+        "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Escape_Tsuanmi_Ads/Subject_001_RV.mp4",
         "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Escape_Tsuanmi_Ads/avatar_interstitial.png",
-        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GPKQH3P3",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FJMPMZ3P",
         "priority": 3
       }
     ]
@@ -30,20 +30,20 @@
     "mediaPacks": [
       {
         "id": "interstitialPack1",
-        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Escape_Tsuanmi_Ads/melon_interstitial.png",
-        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GJR5B37J",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Escape_Tsuanmi_Ads/among%20_us_interstitial.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0D3WNDLYB",
         "priority": 1
       },
       {
         "id": "interstitialPack2",
-        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Escape_Tsuanmi_Ads/avatar_interstitial.png",
-        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GPKQH3P3",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Escape_Tsuanmi_Ads/Subject_001_interstital.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FJMPMZ3P",
         "priority": 2
       },
       {
         "id": "interstitialPack3",
         "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Escape_Tsuanmi_Ads/avatar_interstitial.png",
-        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FX58GB3F",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DPNBF8P7",
         "priority": 3
       }
     ]
