@@ -13,13 +13,13 @@
         "id": "rewardedPack2",
         "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Escape_Tsuanmi_Ads/avatar_vid.mp4",
         "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Escape_Tsuanmi_Ads/avatar_interstitial.png",
-        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0GPKQH3P3",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPD9W927",
         "priority": 2
       },
       {
         "id": "rewardedPack3",
         "videoURL": "https://github.com/Agram56/In_house_ads/raw/refs/heads/main/Escape_Tsuanmi_Ads/Subject_001_RV.mp4",
-        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Escape_Tsuanmi_Ads/avatar_interstitial.png",
+        "imageURL": "https://lh3.googleusercontent.com/sitesv/AA5AbUCCGzawWUc0HnDytEO7sYDfNH6RswbROVgK80d3ja1eEjBschIHcc-P5Usu8HB-qdnAP-Xjhsn4x9AJGauvJB1nWEM7QA0RqTn7OAKsrWx_dWQoOJtKf_zKiWreVnJxDSRSz_-Qb3ia4kb8_udDg9M6YRnBesLU_be5Lj0uSuL-hPQEGi8viSSLUlTBBipTEz5ty88PRsf_JUMqrjj23F1siBkAtFYYPeOp=w1280",
         "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FJMPMZ3P",
         "priority": 3
       }
@@ -30,8 +30,8 @@
     "mediaPacks": [
       {
         "id": "interstitialPack1",
-        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Escape_Tsuanmi_Ads/among%20_us_interstitial.png",
-        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0D3WNDLYB",
+        "imageURL": "https://raw.githubusercontent.com/Agram56/In_house_ads/refs/heads/main/Escape_Tsuanmi_Ads/avatar_interstitial.png",
+        "webURL": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FPD9W927",
         "priority": 1
       },
       {
